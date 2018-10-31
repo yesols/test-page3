@@ -13,3 +13,7 @@ Reasons:
 ## Other thoughts
 
 This is great.
+
+## Images
+
+![alt text](https://pixabay.com/en/cat-tomcat-kitty-kitten-2866167/)
